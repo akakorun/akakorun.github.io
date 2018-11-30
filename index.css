@@ -2,11 +2,11 @@ body {
   background: #1e152a;
   color: #2aac90;
   text-shadow: 2px 2px 0px #ff000054;
-  font: 20px "Fira Code", serif;
+  font: 20px "Fira Mono", serif;
 
   /* anodaone */
-  color: #841320;
-  text-shadow: 1px 2px 0px #3425ad4f;
+  /* color: #841320; */
+  /* text-shadow: 1px 2px 0px #3425ad4f; */
 }
 
 .k-container {

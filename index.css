@@ -15,7 +15,21 @@ body {
   margin: 15% auto 0;
 }
 
+.headline {
+  /* text-align: center; */
+}
+
+.headline img.profile {
+  height: 120px;
+  border-radius: 50%;
+}
+
+.details {
+  line-height: 1.6;
+}
+
 .social {
+  margin-top: 40px;
 }
 
 .social a {
